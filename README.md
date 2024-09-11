@@ -1,4 +1,4 @@
-<h1 align="center">42</h1>
+<h1 align="center">JavaScript</h1>
 
 <p align="center">This repository is a hub to all my projects from JavaScript course.</p>
 
