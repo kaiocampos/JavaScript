@@ -10,7 +10,7 @@
 
 | Project | Technologies | Description |
 |----------|----------|----------|
-| [BlogFake](https://github.com/kaiocampos/BlogFake.git)   | JavaScript | implementing requests |
-| [ClimaAgora](https://github.com/kaiocampos/clima.git)   | JavaScript | implementing requests |
+| [BlogFake](https://github.com/kaiokampos/BlogFake.git)   | JavaScript | implementing requests |
+| [ClimaAgora](https://github.com/kaiokampos/clima.git)   | JavaScript | implementing requests |
 
 </div>
